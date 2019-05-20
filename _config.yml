@@ -20,6 +20,7 @@ primarylinks:
 skills:
   - NodeJs
   - Javascript
+  - Typescript
   - MongoDB
   - PostgreSQL
   - REST API
@@ -55,4 +56,4 @@ github:
 
 intro: |
   I am a software engineer with 3 + years experience working in technology. I have primarily worked on the backend, but have worked across a small range of front end technologies like JQuery and React<br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code <br/><br/>
+  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code. <br/><br/>
