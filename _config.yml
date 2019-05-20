@@ -1,0 +1,58 @@
+# Site settings
+title: Lakshmipriya Mukundan
+twitter_username: kanjirakkuru
+name: Lakshmipriya Mukundan
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+  - title: GitHub
+    url: https://github.com/lakshmipriyamukundan
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/6284365/lakshmipriya-mukundan
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lakshmipriya-mukundan-6ba76ba9/
+
+#Any buzzword skills you want to include
+skills:
+  - NodeJs
+  - Javascript
+  - MongoDB
+  - PostgreSQL
+  - REST API
+  - Elasticsearch
+  - Git
+
+#Work experience is required
+roles:
+  - title: Senior Software Engineer
+    start: 2017
+    end: Ongoing
+    employer: Cubet Techno Labs
+    description: Digital Technology Engineering company, providing end-to-end solutions that help drive organizations forward. Products include ED, Termite, <a href="https://restouser.cubettech.in" taget="_blank">Resto</a>, <a href="https://capriconians.io" taget="_blank">Capriconians</a>, CMA.
+  - title: Software Engineer
+    start: 2015
+    end: 2017
+    employer: Entapza
+    description: Entapza constructed with the aim to provide the best in class software solutions, both in products and services, and software consulting.
+
+#Education is required
+education:
+  - level: Bachelor of Technology (BTech)
+    date: 2015
+    subject: Computer Science and Engineering
+    school: College of Engineering Chengannur
+
+#List of interesting Github repo/projects to include - optional
+github:
+  - lakshmipriyamukundan/nodebb-plugin-slack-notifier
+  - lakshmipriyamukundan/maggi
+  - lakshmipriyamukundan/package-json-updater
+  - lakshmipriyamukundan/morse-app
+
+intro: |
+  I am a software engineer with 3 + years experience working in technology. I have primarily worked on the backend, but have worked across a small range of front end technologies like JQuery and React<br/><br/>
+  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code <br/><br/>
